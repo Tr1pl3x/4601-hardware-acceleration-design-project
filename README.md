@@ -15,3 +15,4 @@ This is an educational project only, **NOT** a profitable miner, and no mining-p
 | Timothy Lam | z5481745 | z5481745@ad.unsw.edu.au |  |
 
 ## Group Plan / Initial Investigation
+The documentation can be found [here](./group-investigation.pdf)
