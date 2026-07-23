@@ -1,5 +1,5 @@
 # Bitcoin Mining
-Last updated: 10/7/2026
+Last updated: 23/7/2026
 
 This is an educational project only, **NOT** a profitable miner, and no mining-pool / network code (per the project brief).*
 
@@ -12,7 +12,6 @@ This is an educational project only, **NOT** a profitable miner, and no mining-p
 | Hasitha Peter Inapuri | z5518219  | z5518219@ad.unsw.edu.au | 
 | Jin Hao Dylan Loh | z5432665 | z5432665@ad.unsw.edu.au | 
 | Qiyue Wang (Martin) | z5484179 | z5484179@ad.unsw.edu.au | 
-| Timothy Lam | z5481745 | z5481745@ad.unsw.edu.au | 
 
 ## Group Plan / Initial Investigation
 The documentation can be found [here](./group-investigation.pdf)
